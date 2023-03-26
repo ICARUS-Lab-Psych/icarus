@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Liam Mason
 image: images/photo.jpg
 role: pi
 aliases:
@@ -10,10 +10,7 @@ links:
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I joined the department as a Lecturer in Clinical Psychology in 2018 and was subsequently awarded an MRC Clinician Scientist Fellowship, based at the Max Planck Centre for Computational Psychiatry, part of the Wellcome Trust Centre for Human Neuroimaging.
+
+I am a supervisor on several PhD programmes, including the MRC DTP PhD pathway. I have supervised MSc/MRes students from the Cognitive Neuroscience, Cognitive and Decision Sciences, Social Cognition, and Advanced Neuroimaging programmes. I find supervision to be one of the most rewarding aspects of being a researcher and academic, and my style is to always strive to match the level of work put in by students I supervise. 
+I also welcome applications from postgraduate students for internships and placements.

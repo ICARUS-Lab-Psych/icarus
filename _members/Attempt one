@@ -4,7 +4,7 @@ image: images/photo.jpg
 role: phd
 group: alum
 links:
-  github: attempt-one
+  github: https://github.com/attempt-one
 ---
 
 I am completing my PhD at the Max Planck UCL Centre for Computational Psychiatry supervised by Liam Mason and Quentin Huys. 

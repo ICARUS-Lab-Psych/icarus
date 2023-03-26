@@ -2,7 +2,7 @@
 name: Georgie Hudson
 image: images/photo.jpg
 description: PhD Student
-role: programmer
+role: phd
 links:
   email: georgie.hudson.22@ucl.ac.uk
   twitter: sarahjohnson

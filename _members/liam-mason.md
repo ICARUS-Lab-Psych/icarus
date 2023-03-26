@@ -1,6 +1,6 @@
 ---
 name: Liam Mason
-image: images/photo.jpg
+image: Liam.jpeg
 role: pi
 aliases:
   - J. Smith

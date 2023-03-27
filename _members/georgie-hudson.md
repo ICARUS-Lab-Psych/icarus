@@ -1,6 +1,6 @@
 ---
 name: Georgie Hudson
-image: images/photo.jpg
+image: images/georgie.jpg
 description: PhD Student
 role: phd
 links:

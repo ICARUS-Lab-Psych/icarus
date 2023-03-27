@@ -1,6 +1,6 @@
 ---
 name: Zoë Freeman
-image: images/photo.jpg
+image: images/zoe.png
 role: phd
 group: alum
 links:

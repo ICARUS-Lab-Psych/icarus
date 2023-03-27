@@ -1,6 +1,6 @@
 ---
 name: Daisy Crawley
-image: images/daisy.png
+image: images/daisy-good.png
 role: phd
 group: alum
 links:

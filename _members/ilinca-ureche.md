@@ -1,6 +1,6 @@
 ---
 name: Ilinca Ureche-Angelescu
-image: images/ilinca.jpg
+image: images/ilinca-good.png
 role: phd
 group: alum
 links:

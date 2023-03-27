@@ -1,6 +1,6 @@
 ---
 name: Tom Metherell
-image: images/photo.jpg
+image: images/tom.jpg
 role: phd
 group: alum
 links:

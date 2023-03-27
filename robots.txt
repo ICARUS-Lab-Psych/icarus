@@ -1,1 +1,1 @@
-Sitemap: /ICARUS/sitemap.xml
+Sitemap: /icarus/sitemap.xml

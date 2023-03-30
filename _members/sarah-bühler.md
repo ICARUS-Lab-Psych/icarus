@@ -1,6 +1,6 @@
 ---
 name: Sarah Bühler
-image: images/ilinca-good.png
+image: images/Sarah.png
 role: phd
 group: alum
 links:

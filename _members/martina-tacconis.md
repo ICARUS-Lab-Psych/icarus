@@ -1,7 +1,7 @@
 ---
 name: Martina Tacconis
 image: images/Martina.jpeg
-role: phd
+role: undergrad
 group: alum
 links:
   github: john-doe

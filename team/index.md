@@ -1,5 +1,5 @@
 ---
-title: Meet our team
+title: Team
 nav:
   order: 3
   tooltip: About our team

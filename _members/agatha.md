@@ -1,6 +1,6 @@
 ---
 name: Ágatha Alves Anet
-image: images/ilinca-good.png
+image: images/agatha.jpeg
 role: phd
 group: alum
 links:

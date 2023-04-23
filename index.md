@@ -3,7 +3,7 @@
 
 # ICARUS Website
 
-An engaging 1-3 sentence description of your lab.
+An engaging 1-3 sentence description of your lab. is it here?
 
 {% include section.html %}
 

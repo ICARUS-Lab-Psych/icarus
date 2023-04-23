@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  tooltip: Learn about our research
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

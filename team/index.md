@@ -1,11 +1,11 @@
 ---
-title: Meet our team
+title: Team
 nav:
   order: 2
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Meet our team
 
 We are dedicated to conducting high-quality research and translating our 
 findings into clinical practice, with the ultimate goal of improving the lives 

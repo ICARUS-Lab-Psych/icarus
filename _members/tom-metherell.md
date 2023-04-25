@@ -4,7 +4,7 @@ image: images/tom.jpg
 role: phd
 group: alum
 links:
-  twitter: @tom_metherell
+  twitter: tom_metherell
 ---
 
 As part of the UCL–Wellcome PhD in Mental Health Science, I am currently completing a rotation in the Research Department of

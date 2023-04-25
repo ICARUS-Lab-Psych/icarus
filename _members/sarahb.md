@@ -1,6 +1,6 @@
 ---
 name: Sarah Bakirci
-image: images/sarahb.jpeg
+image: images/sarahb.png
 role: phd
 group: alum
 links:

@@ -5,6 +5,8 @@ role: phd
 group: alum
 links:
   github: https://liammasonpsych.github.io/test2/members/tom-metherell.html
+  email: thomas.metherell.22@ucl.ac.uk
+  twitter: @tom_metherell
 ---
 
 As part of the UCL–Wellcome PhD in Mental Health Science, I am currently completing a rotation in the Research Department of

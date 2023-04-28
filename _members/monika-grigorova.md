@@ -1,6 +1,6 @@
 ---
 name: Monika Grigorova
-image: images/
+image: images/photo.jpg
 role: phd
 group: alum
 links:

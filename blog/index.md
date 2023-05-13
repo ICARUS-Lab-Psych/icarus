@@ -1,8 +1,8 @@
 ---
-title: News
+title: Publications
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 1
+  tooltip: Learn about our research
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog

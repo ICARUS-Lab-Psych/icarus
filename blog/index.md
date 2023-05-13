@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Projects
 nav:
   order: 1
   tooltip: Learn about our research

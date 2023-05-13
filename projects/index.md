@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: News
 nav:
-  order: 1
-  tooltip: Learn about our research
+  order: 4
+  tooltip: Musings and miscellany
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

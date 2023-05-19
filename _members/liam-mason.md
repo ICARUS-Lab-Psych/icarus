@@ -2,12 +2,9 @@
 name: Liam Mason
 image: images/Liam.jpeg
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  Google Scholar: https://scholar.google.com/citations?user=2iG9vO8AAAAJ&hl=en
+  orcid: 0000-0003-3957-1436
 ---
 
 I joined the department as a Lecturer in Clinical Psychology in 2018 and was subsequently awarded an MRC Clinician Scientist Fellowship, based at the Max Planck Centre for Computational Psychiatry, part of the Wellcome Trust Centre for Human Neuroimaging.

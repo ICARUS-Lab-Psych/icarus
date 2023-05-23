@@ -3,7 +3,7 @@ name: Liam Mason
 image: images/Liam.jpeg
 role: pi
 links:
-  Google Scholar: https://scholar.google.com/citations?user=2iG9vO8AAAAJ&hl=en
+  google-scholar: https://scholar.google.com/citations?user=2iG9vO8AAAAJ&hl=en
   orcid: 0000-0003-3957-1436
 ---
 

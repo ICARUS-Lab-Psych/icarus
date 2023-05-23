@@ -4,7 +4,7 @@ image: images/agatha.jpeg
 role: phd
 group: alum
 links:
-  github: john-doe
+  orcid: 0000-0002-4633-9064
 ---
 
 I am a PhD student at the UCL-Wellcome Mental Health Science Programme. During my rotation supervised by Liam Mason,

@@ -1,6 +1,6 @@
 ---
 name: Michele Lim
-image: images/Michele.jpg
+image: images/Michele.JPG
 description: PhD Student
 role: phd
 links:

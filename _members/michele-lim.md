@@ -6,6 +6,7 @@ role: phd
 links:
   email: michele.lim.15@ucl.ac.uk
   orcid: 0000-0001-8069-0416  
+  google-scholar: MCLVeicAAAAJ&hl=en
 ---
 
 I am a Doctorate in Clinical Psychology (DClinPsy) trainee undertaking my dissertation with Liam Mason. My project aims

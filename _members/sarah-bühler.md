@@ -4,7 +4,9 @@ image: images/Sarah.png
 role: phd
 group: alum
 links:
-  github: https://liammasonpsych.github.io/icarus/members/sarah-bühler.html
+  email: sarah.buehler.19@ucl.ac.uk
+  orcid: 0000-0002-1780-5118
+  google-scholar: Dih0mC4AAAAJ&hl=en
 ---
 
 I am a PhD Student on the BBSRC funded LIDo DTP. My research interest broadly lies in understanding how human cognition can be biased

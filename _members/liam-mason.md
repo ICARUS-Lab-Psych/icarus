@@ -3,6 +3,7 @@ name: Liam Mason
 image: images/Liam.jpeg
 role: pi
 links:
+  email: l.mason@ucl.ac.uk
   orcid: 0000-0003-3957-1436
   google-scholar: 2iG9vO8AAAAJ&hl=en
 ---

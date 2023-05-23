@@ -4,7 +4,8 @@ image: images/daisy-good.png
 role: phd
 group: alum
 links:
-  github: https://liammasonpsych.github.io/test2/members/daisy-crawley.html
+  orcid: 0000-0001-9901-1110
+  google-scholar: erLZJtsAAAAJ&hl=en
 ---
 
 I am a final year trainee clinical psychologist at UCL. I did my undergraduate at Robinson College, Cambridge followed by a 

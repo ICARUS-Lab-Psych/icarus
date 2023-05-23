@@ -5,7 +5,6 @@ role: phd
 group: alum
 links:
   email: monika.grigorova.15@ucl.ac.uk
-  twitter: 
 ---
 
 I am completing my Doctorate in Clinical Psychology (DClinPsy) at UCL. As part of my training I am completing a dissertation 

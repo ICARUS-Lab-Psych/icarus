@@ -4,7 +4,8 @@ image: images/ilinca-good.png
 role: phd
 group: alum
 links:
-  github: john-doe
+  email: i.angelescu@ucl.ac.uk
+  google-scholar: uYmS0OQAAAAJ&hl=en
 ---
 
 I am completing my PhD at the Max Planck UCL Centre for Computational Psychiatry supervised by Liam Mason and Quentin Huys. 

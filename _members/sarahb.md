@@ -4,7 +4,7 @@ image: images/sarahb.png
 role: phd
 group: alum
 links:
-  github: john-doe
+  email: s.bakirci.18@ucl.ac.uk
 ---
 
 I am a PhD student on the Wellcome Trust Mental Health Science programme at UCL and I completed a first year rotation project

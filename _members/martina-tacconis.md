@@ -4,7 +4,7 @@ image: images/Martina.jpeg
 role: undergrad
 group: alum
 links:
-  github: john-doe
+  email: martina.tacconis.20@ucl.ac.uk
 ---
 
 I am currently in the last year of my BSc psychology degree at UCL. I have recently concluded my dissertation project 

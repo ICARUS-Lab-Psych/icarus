@@ -5,7 +5,7 @@ description: PhD Student
 role: phd
 links:
   email: georgie.hudson.22@ucl.ac.uk
-  twitter: sarahjohnson
+  orcid: 0000-0002-5002-4890
 ---
 
 I am completing my PhD on the UCL Wellcome 4-year PhD in Mental Health Science programme and am doing a rotation project, supervised 

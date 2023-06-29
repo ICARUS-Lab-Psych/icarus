@@ -32,7 +32,7 @@ nav:
 
 {%
   include figure.html
-  image="ICARUS team 1.JPG"
+  image="images/ICARUS team 1.JPG"
   caption="Lorem ipsum"
 %}
 
@@ -42,7 +42,7 @@ nav:
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/ICARUS team 2.jpeg"
   caption="Lorem ipsum"
 %}
 

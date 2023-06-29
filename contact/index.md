@@ -7,13 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Es aquí?
-
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="email"
+  link="l.mason@ucl.ac.uk"
 %}
 {%
   include button.html
@@ -25,7 +23,7 @@ Es aquí?
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/FJk5Hr1srij51sMy5"
 %}
 
 {% include section.html %}

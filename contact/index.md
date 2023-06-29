@@ -32,7 +32,7 @@ nav:
 
 {%
   include figure.html
-  image="ICARUS team 1.JPG"
+  image=ICARUS team 1.JPG
   caption="Lorem ipsum"
 %}
 

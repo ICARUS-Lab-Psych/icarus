@@ -33,7 +33,7 @@ nav:
 {%
   include figure.html
   image="images/russell-square-house.jpg"
-  caption=
+  caption="Russell Square House"
 %}
 
 {% endcapture %}
@@ -43,7 +43,7 @@ nav:
 {%
   include figure.html
   image="images/russell-square.jpg"
-  caption=
+  caption="Russell Square"
 %}
 
 {% endcapture %}

@@ -18,9 +18,11 @@ of people affected by mental health problems.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-TEMPORARY MEMBERS
+# {% include icon.html icon="fa-solid fa-users" %}Temporary members
 
 {% include section.html %}
 
 {% include list.html data="temp.members" component="portrait" filters="role: pi" %}
 {% include list.html data="temp.members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{% include section.html background="images/background.jpg" dark=true %}

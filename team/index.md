@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Meet our team
+# {% include icon.html icon="fa-solid fa-users" %}Meet our lab members
 
 We are dedicated to conducting high-quality research and translating our 
 findings into clinical practice, with the ultimate goal of improving the lives 

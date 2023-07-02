@@ -24,5 +24,3 @@ TEMPORARY MEMBERS
 
 {% include list.html data="temp.members" component="portrait" filters="role: pi" %}
 {% include list.html data="temp.members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include grid.html style="square" content=content %}

@@ -15,9 +15,9 @@ nav:
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="twitter"
+  text="Twitter"
+  link="LiamMasonPsych"
 %}
 {%
   include button.html

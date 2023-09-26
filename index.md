@@ -1,8 +1,6 @@
 ---
 ---
 
-# ICARUS Website
-
 Our research views psychopathology and clinical interventions through a neuro-computational lens. We examine the mechanisms 
 of dysregulated mood and goal-directed behavior, as well as the mechanisms by which interventions exert their effects.
 

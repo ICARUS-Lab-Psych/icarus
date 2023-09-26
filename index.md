@@ -18,6 +18,8 @@ We draw heavily on neuroimaging and ambulatory and smartphone-based assessment a
 
 ## Highlights
 
+{% capture text %}
+
 {%
   include feature.html
   image="images/ICARUS team 1.JPG"
@@ -25,8 +27,6 @@ We draw heavily on neuroimaging and ambulatory and smartphone-based assessment a
   title="Our Team"
   text=text
 %}
-
-{% capture text %}
 
 {%
   include button.html

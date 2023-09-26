@@ -28,6 +28,8 @@ We draw heavily on neuroimaging and ambulatory and smartphone-based assessment a
   text=text
 %}
 
+{% endcapture %}
+
 {%
   include button.html
   link="team"
@@ -36,6 +38,4 @@ We draw heavily on neuroimaging and ambulatory and smartphone-based assessment a
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
 

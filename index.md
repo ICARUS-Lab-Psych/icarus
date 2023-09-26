@@ -23,8 +23,8 @@ We draw heavily on neuroimaging and ambulatory and smartphone-based assessment a
 {%
   include button.html
   link="team"
-  text="Meet our team"
   icon="fa-solid fa-arrow-left"
+  text="Meet our team"
   flip=true
   style="bare"
 %}

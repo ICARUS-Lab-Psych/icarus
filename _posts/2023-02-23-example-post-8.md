@@ -1,6 +1,6 @@
 ---
 title: Predicting real-life health behaviours during COVID-19 from the cognitive science of decision-making 
-author: ???
+author: 
 tags: Population, Prediction 
 ---
 

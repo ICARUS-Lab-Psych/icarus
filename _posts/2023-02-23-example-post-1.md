@@ -1,7 +1,7 @@
 ---
 title: Neuro-computational approaches to mood instability and reward dysregulation
 author: 
-tags: computational/psychiatry, RL, affect 
+tags: computational-psychiatry, RL, affect 
 link: https://www.fil.ion.ucl.ac.uk/news-item/new-app-designed-to-help-scientists-figure-out-what-determines-happiness-though-fun-games/
 ---
 

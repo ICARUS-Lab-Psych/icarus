@@ -1,6 +1,6 @@
 ---
 title: The intersection of Circadian and reward processes and intervention drafting
-author: Sheri Johnson, Greg Murray, Michael Berk, Lance K?, Robin Nusslock, Toni Dewitz, Katie Trinci & Liam Mason
+author: 
 tags:
 ---
 

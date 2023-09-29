@@ -1,6 +1,6 @@
 ---
 title: The role of serotonin and dopamine in mood and reward-based decision-making
-author: Robb Rutledge, Michael Moutoussis, Tom Metherell & Quentin Dercon
+author: 
 tags: 
 ---
 

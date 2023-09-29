@@ -1,6 +1,6 @@
 ---
 title: Neural and physiological indices of PTSD-psychosis
-author: Emmanuelle Peters, Rebecca Elliott, Richard Bentall, Emma Snasdell, Molly Greenslade & Zoë Freeman
+author: 
 tags: 
 ---
 

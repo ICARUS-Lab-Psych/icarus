@@ -1,7 +1,7 @@
 ---
-title: The intersection of Circadian and reward processes and intervention drafting
+title: The intersection of circadian and reward processes
 author: 
-tags:
+tags: time of day, fMRI, bipolar disorder
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

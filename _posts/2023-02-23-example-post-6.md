@@ -1,7 +1,7 @@
 ---
-title: Neural and physiological indices of PTSD-psychosis
+title: Neural and physiological mechanisms of trauma memory and change mechanisms of trauma-focused intervention
 author: 
-tags: 
+tags: fMRI, HRV, CBT, PTSD, psychosis
 ---
 
 Trauma experience and psychosis often co-occur. Symptoms of both conditions overlap, including trauma memory intrusions,

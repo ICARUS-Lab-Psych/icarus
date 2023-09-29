@@ -1,6 +1,6 @@
 ---
 title: Real-life momentary intervetnion for misperceiving momentum
-author: Ciaran O'Driscoll & Imelda Minnock
+author: 
 tags: 
 ---
 

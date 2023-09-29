@@ -1,6 +1,6 @@
 ---
 title: Neuro-computational approaches to mood instability and reward dysregulation
-author: Liam Mason, Ilinca Ureche-Angelescu & Hestia Moningka
+author: 
 ---
 
 To investigate the recursive cycles by which mood biases reward perception, we combine 

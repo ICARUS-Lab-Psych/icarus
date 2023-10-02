@@ -1,7 +1,7 @@
 ---
 name: Ekaterina Del Conde
 image: images/Ekaterina.jpg
-role: undergrad
+role: postgrad
 group: alum
 links:
   email: ekaterina.schnaider.22@ucl.ac.uk

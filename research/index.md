@@ -13,7 +13,7 @@ More coming soon.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Mood Instability and Reward Dysregulation-A Neurocomputational Model of Bipolar Disorder" style="rich" %}
 
 {% include section.html %}
 

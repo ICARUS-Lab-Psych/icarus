@@ -26,7 +26,7 @@
   publisher: ''
   date: '2021-01-01'
   link: https://europepmc.org/article/PPR/PPR322283
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/nytxc
@@ -55,7 +55,7 @@
   publisher: Center for Open Science
   date: '2021-03-05'
   link: https://doi.org/gsvpx4
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1017/s0033291721000635
@@ -81,11 +81,11 @@
   publisher: Psychological Medicine
   date: '2021-03-16'
   link: https://doi.org/gmg4gn
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33722329
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -112,7 +112,7 @@
   publisher: Psychological medicine
   date: '2021-03-16'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8010290/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/2vw7d
@@ -138,7 +138,7 @@
   publisher: Center for Open Science
   date: '2021-03-15'
   link: https://doi.org/gsvpx5
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR322017
@@ -164,7 +164,7 @@
   publisher: ''
   date: '2021-01-01'
   link: https://europepmc.org/article/PPR/PPR322017
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR321631
@@ -179,7 +179,7 @@
   publisher: ''
   date: '2021-01-01'
   link: https://doi.org/10.31234/osf.io/rhvdu
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/rhvdu
@@ -194,7 +194,7 @@
   publisher: Center for Open Science
   date: '2021-03-29'
   link: https://doi.org/gsvpx6
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijerph18063144
@@ -217,11 +217,11 @@
   publisher: International Journal of Environmental Research and Public Health
   date: '2021-03-18'
   link: https://doi.org/gngzxw
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33803708
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -247,7 +247,7 @@
   publisher: ''
   date: '2021-01-01'
   link: https://europepmc.org/article/PPR/PPR322415
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/ujwsm
@@ -272,7 +272,7 @@
   publisher: Center for Open Science
   date: '2021-02-23'
   link: https://doi.org/gsvpx7
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/8xtdr
@@ -298,7 +298,7 @@
   publisher: Center for Open Science
   date: '2021-01-29'
   link: https://doi.org/gsvpx8
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR322647
@@ -324,7 +324,7 @@
   publisher: ''
   date: '2021-01-01'
   link: https://europepmc.org/article/PPR/PPR322647
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2139/ssrn.3749211
@@ -349,7 +349,7 @@
   publisher: SSRN Electronic Journal
   date: '2020-01-01'
   link: https://doi.org/gsvpx9
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR272736
@@ -374,11 +374,11 @@
   publisher: ''
   date: '2021-01-01'
   link: https://europepmc.org/article/PPR/PPR272736
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33503049
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -407,7 +407,7 @@
   publisher: PLOS ONE
   date: '2021-01-27'
   link: https://doi.org/gsvpzb
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmc:PMC7840055
@@ -435,7 +435,7 @@
   publisher: PloS one
   date: '2021-01-27'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7840055/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmc:PMC7782692
@@ -460,11 +460,11 @@
   publisher: Nature communications
   date: '2021-01-04'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7782692/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33397962
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -490,7 +490,7 @@
   publisher: Nature Communications
   date: '2021-01-04'
   link: https://doi.org/gh4456
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/mz5sw
@@ -517,7 +517,7 @@
   publisher: Center for Open Science
   date: '2020-12-18'
   link: https://doi.org/gsvpzc
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR324193
@@ -544,7 +544,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://europepmc.org/article/PPR/PPR324193
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmc:PMC7992290
@@ -572,7 +572,7 @@
   publisher: International journal of methods in psychiatric research
   date: '2021-03-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7992290/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mpr.1861
@@ -600,11 +600,11 @@
   publisher: International Journal of Methods in Psychiatric Research
   date: '2020-11-09'
   link: https://doi.org/ghpdch
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33166018
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -633,7 +633,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://europepmc.org/article/PPR/PPR324219
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/kvynr
@@ -661,7 +661,7 @@
   publisher: Center for Open Science
   date: '2020-09-22'
   link: https://doi.org/gsvpzd
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR326864
@@ -688,7 +688,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/u7vqp
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/u7vqp
@@ -715,7 +715,7 @@
   publisher: Center for Open Science
   date: '2020-08-19'
   link: https://doi.org/gsvpzf
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/pev2b
@@ -740,7 +740,7 @@
   publisher: Center for Open Science
   date: '2020-06-10'
   link: https://doi.org/gsvpzg
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR326592
@@ -765,7 +765,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://europepmc.org/article/PPR/PPR326592
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/dcynw
@@ -792,7 +792,7 @@
   publisher: Center for Open Science
   date: '2020-06-17'
   link: https://doi.org/gjgzkt
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR326476
@@ -819,11 +819,11 @@
   publisher: ''
   date: '2020-01-01'
   link: https://europepmc.org/article/PPR/PPR326476
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32458550
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -848,7 +848,7 @@
   publisher: British journal of health psychology
   date: '2020-11-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7283836/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/bjhp.12430
@@ -872,7 +872,7 @@
   publisher: British Journal of Health Psychology
   date: '2020-05-27'
   link: https://doi.org/ggzk5q
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/bjhp.12426
@@ -894,7 +894,7 @@
   publisher: British Journal of Health Psychology
   date: '2020-05-16'
   link: https://doi.org/ggw9g8
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmc:PMC7276910
@@ -916,11 +916,11 @@
   publisher: British journal of health psychology
   date: '2020-11-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7276910/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32415918
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -946,7 +946,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/8dtnq
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/8dtnq
@@ -971,7 +971,7 @@
   publisher: Center for Open Science
   date: '2020-05-18'
   link: https://doi.org/gsvpzh
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/hb6nq
@@ -995,7 +995,7 @@
   publisher: Center for Open Science
   date: '2020-04-18'
   link: https://doi.org/dtv3
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR327544
@@ -1019,7 +1019,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/hb6nq
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR328706
@@ -1043,7 +1043,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/ydvc7
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/ydvc7
@@ -1067,7 +1067,7 @@
   publisher: Center for Open Science
   date: '2020-04-30'
   link: https://doi.org/gsvpzj
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/typqv
@@ -1089,7 +1089,7 @@
   publisher: Center for Open Science
   date: '2020-04-20'
   link: https://doi.org/gsvpzk
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR328764
@@ -1111,7 +1111,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/typqv
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31234/osf.io/wxe2n
@@ -1134,7 +1134,7 @@
   publisher: Center for Open Science
   date: '2020-04-13'
   link: https://doi.org/gsvpzm
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: ppr:PPR330260
@@ -1157,7 +1157,7 @@
   publisher: ''
   date: '2020-01-01'
   link: https://doi.org/10.31234/osf.io/wxe2n
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fpsyt.2020.00140
@@ -1170,11 +1170,11 @@
   publisher: Frontiers in Psychiatry
   date: '2020-03-18'
   link: https://doi.org/gmchw4
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32256395
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1188,7 +1188,7 @@
   publisher: Frontiers in psychiatry
   date: '2020-03-18'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7093344/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.nicl.2018.10.011
@@ -1203,11 +1203,11 @@
   publisher: 'NeuroImage: Clinical'
   date: '2018-01-01'
   link: https://doi.org/gfqwcj
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30343250
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1223,7 +1223,7 @@
   publisher: NeuroImage. Clinical
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197386/
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1001/jamapsychiatry.2017.3163
@@ -1236,11 +1236,11 @@
   publisher: JAMA Psychiatry
   date: '2017-12-01'
   link: https://doi.org/gm2n5p
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84955211936
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1255,7 +1255,7 @@
   publisher: Biological Psychiatry
   date: '2016-02-01'
   link: https://doi.org/f76vkr
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/schbul/sbv153
@@ -1270,31 +1270,31 @@
   publisher: Schizophrenia Bulletin
   date: '2015-10-27'
   link: https://doi.org/f8pgn6
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84966318564
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: source-work-id:029b46a5-fc76-4b37-9ee2-84e08ab03f4e
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: pmid:26508777
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: pmid:25697285
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: source-work-id:6590d03b-479d-4ced-b0d3-e5d828eb2204
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1308,21 +1308,21 @@
   publisher: Behavioural and Cognitive Psychotherapy
   date: '2015-02-20'
   link: https://doi.org/f8cc5b
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84957431938
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: source-work-id:05426955-a584-46b8-8c00-4f688708ec87
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: source-work-id:c4bea82d-4162-47d6-99a8-cd28fb14d5c8
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1338,16 +1338,16 @@
   publisher: Brain
   date: '2014-06-24'
   link: https://doi.org/f6cnjj
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84904968754
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-84867655666
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1361,11 +1361,11 @@
   publisher: PLoS ONE
   date: '2012-10-17'
   link: https://doi.org/gmcj66
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84868691240
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1380,11 +1380,11 @@
   publisher: Cognition &amp; Emotion
   date: '2012-12-01'
   link: https://doi.org/gg2pnr
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84857637034
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1400,7 +1400,7 @@
   publisher: Biological Psychiatry
   date: '2012-03-01'
   link: https://doi.org/d3kxvp
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neuropsychologia.2011.06.008
@@ -1415,11 +1415,11 @@
   publisher: Neuropsychologia
   date: '2011-08-01'
   link: https://doi.org/chz6rw
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-80051471272
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1434,11 +1434,11 @@
   publisher: Journal of Psychosomatic Research
   date: '2008-01-01'
   link: https://doi.org/chk59g
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-37349047433
-  orcid: 0000-0003-3957-1436
+  orcid: 0009-0000-2071-8472
   plugin: orcid.py
   file: orcid.yaml
   date: ''

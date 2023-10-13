@@ -1,99 +1,1447 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.07.11.548610
-  title: 'Misperceiving momentum: computational mechanisms of biased striatal reward prediction errors in bipolar disorder'
+- id: ppr:PPR322283
+  title: "Design, content, and fieldwork procedures of the COVID-19 Psychological\
+    \ Research Consortium (C19PRC) Study \u2013 Wave"
   authors:
-  - Hestia Moningka
-  - Wael El-Deredy
-  - Richard P Bentall
+  - Orla McBride
+  - Sarah Butter
+  - Jamie Murphy
+  - Mark Shevlin
+  - Todd Hartman
+  - Kate Mary Bennett
+  - Thomas VA Stocks
+  - Alex Lloyd
+  - Ryan McKay
+  - Jilly Gibson Miller
+  - Liat Levita
   - Liam Mason
-  publisher: bioRxiv
-  date: '2023'
-  link: https://doi.org/10.1101/2023.07.11.548610
-  orcid: 0009-0000-2071-8472
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
+  - Anton Philipp Martinez
+  - Philip Hyland
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Thanos Karatzias
+  - Carmen Valiente
+  - Carmelo Vazquez
+  - Richard Bentall
+  publisher: ''
+  date: '2021-01-01'
+  link: https://europepmc.org/article/PPR/PPR322283
   orcid: 0000-0003-3957-1436
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.31234/osf.io/nytxc
+  title: "Design, content, and fieldwork procedures of the COVID-19 Psychological\
+    \ Research Consortium (C19PRC) Study \u2013 Wave 4"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
+  - Orla McBride
+  - Sarah Butter
+  - Jamie Murphy
+  - Mark Shevlin
+  - Todd K. Hartman
+  - Kate Mary Bennett
+  - Thomas VA Stocks
+  - Alex Lloyd
+  - Ryan McKay
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Philip Hyland
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Thanos Karatzias
+  - Carmen Valiente
+  - Carmelo Vazquez
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2021-03-05'
+  link: https://doi.org/gsvpx4
   orcid: 0000-0003-3957-1436
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1017/s0033291721000635
+  title: How does the COVID-19 pandemic impact on population mental health? A network
+    analysis of COVID influences on depression, anxiety and traumatic stress in the
+    UK population
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
+  - Orestis Zavlis
+  - Sarah Butter
+  - Kate Bennett
+  - Todd K. Hartman
+  - Philip Hyland
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P. Martinez
+  - Mark Shevlin
+  - Thomas V. A. Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard P. Bentall
+  publisher: Psychological Medicine
+  date: '2021-03-16'
+  link: https://doi.org/gmg4gn
   orcid: 0000-0003-3957-1436
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
+- id: pmid:33722329
   orcid: 0000-0003-3957-1436
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
+- id: pmc:PMC8010290
+  title: How does the COVID-19 pandemic impact on population mental health? A network
+    analysis of COVID influences on depression, anxiety and traumatic stress in the
+    UK population
+  authors:
+  - Orestis Zavlis
+  - Sarah Butter
+  - Kate Bennett
+  - Todd K Hartman
+  - Philip Hyland
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P Martinez
+  - Mark Shevlin
+  - Thomas V A Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard P Bentall
+  publisher: Psychological medicine
+  date: '2021-03-16'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8010290/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/2vw7d
+  title: 'Modelling the complexity of pandemic-related lifestyle quality change and
+    mental health: An analysis of a nationally representative UK general population
+    sample'
+  authors:
+  - Sarah Butter
+  - Jamie Murphy
+  - Philip Hyland
+  - Orla McBride
+  - Mark Shevlin
+  - Todd K. Hartman
+  - Kate Mary Bennett
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Liam Mason
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2021-03-15'
+  link: https://doi.org/gsvpx5
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR322017
+  title: 'Modelling the complexity of pandemic-related lifestyle quality change and
+    mental health: An analysis of a nationally representative UK general population
+    sampl'
+  authors:
+  - Sarah Butter
+  - Jamie Murphy
+  - Philip Hyland
+  - Orla McBride
+  - Mark Shevlin
+  - Todd Hartman
+  - Kate Mary Bennett
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Liam Mason
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: ''
+  date: '2021-01-01'
+  link: https://europepmc.org/article/PPR/PPR322017
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR321631
+  title: Self-Esteem depends on beliefs about the rate of change of social approva
+  authors:
+  - Alexis An Yee Low
+  - William John Telesfor Hopper
+  - Ilinca Angelescu
+  - Liam Mason
+  - Geert-Jan Will
+  - Michael Moutoussis
+  publisher: ''
+  date: '2021-01-01'
+  link: https://doi.org/10.31234/osf.io/rhvdu
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/rhvdu
+  title: Self-Esteem depends on beliefs about the rate of change of social approval
+  authors:
+  - Alexis An Yee Low
+  - William John Telesfor Hopper
+  - Ilinca Angelescu
+  - Liam Mason
+  - Geert-Jan Will
+  - Michael Moutoussis
+  publisher: Center for Open Science
+  date: '2021-03-29'
+  link: https://doi.org/gsvpx6
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph18063144
+  title: Understanding the Impact of Initial COVID-19 Restrictions on Physical Activity,
+    Wellbeing and Quality of Life in Shielding Adults with End-Stage Renal Disease
+    in the United Kingdom Dialysing at Home versus In-Centre and Their Experiences
+    with Telemedicine
+  authors:
+  - Joe Antoun
+  - Daniel J. Brown
+  - Daniel J. W. Jones
+  - Nicholas C. Sangala
+  - Robert J. Lewis
+  - Anthony I. Shepherd
+  - Melitta A. McNarry
+  - Kelly A. Mackintosh
+  - Laura Mason
+  - Jo Corbett
+  - Zoe L. Saynor
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-03-18'
+  link: https://doi.org/gngzxw
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33803708
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: ppr:PPR322415
+  title: "Refuting the myth of a \u2018tsunami\u2019 of mental ill-health in populations\
+    \ affected by COVID-19: Evidence that response to the pandemic is heterogenous,\
+    \ not homogeneou"
+  authors:
+  - Mark Shevlin
+  - Sarah Butter
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Richard Bentall
+  publisher: ''
+  date: '2021-01-01'
+  link: https://europepmc.org/article/PPR/PPR322415
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/ujwsm
+  title: "Refuting the myth of a \u2018tsunami\u2019 of mental ill-health in populations\
+    \ affected by COVID-19: Evidence that response to the pandemic is heterogenous,\
+    \ not homogeneous"
+  authors:
+  - Mark Shevlin
+  - Sarah Butter
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2021-02-23'
+  link: https://doi.org/gsvpx7
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/8xtdr
+  title: How Does The COVID-19 Pandemic Impact on Population Mental Health? A Network
+    Analysis of COVID Influences On Depression, Anxiety and Traumatic Stress in the
+    UK Population
+  authors:
+  - Orestis Zavlis
+  - Sarah Butter
+  - Kate Mary Bennett
+  - Todd K. Hartman
+  - Philip Hyland
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Mark Shevlin
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2021-01-29'
+  link: https://doi.org/gsvpx8
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR322647
+  title: How Does The COVID-19 Pandemic Impact on Population Mental Health? A Network
+    Analysis of COVID Influences On Depression, Anxiety and Traumatic Stress in the
+    UK Populatio
+  authors:
+  - Orestis Zavlis
+  - Sarah Butter
+  - Kate Mary Bennett
+  - Todd Hartman
+  - Philip Hyland
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Mark Shevlin
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: ''
+  date: '2021-01-01'
+  link: https://europepmc.org/article/PPR/PPR322647
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.3749211
+  title: 'Modelling Changes in Anxiety-Depression and Traumatic Stress During the
+    First Wave of the COVID-19 Pandemic in the UK: Evidence for Population Heterogeneity
+    in Longitudinal Change'
+  authors:
+  - Mark Shevlin
+  - Sarah Butter
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson-Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton P. Martinez
+  - Ryan McKay
+  - Thomas V.A. Stocks
+  - Kate Bennett
+  - Philip Hyland
+  - Richard P. Bentall
+  publisher: SSRN Electronic Journal
+  date: '2020-01-01'
+  link: https://doi.org/gsvpx9
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR272736
+  title: 'Modelling Changes in Anxiety-Depression and Traumatic Stress During the
+    First Wave of the COVID-19 Pandemic in the UK: Evidence for Population Heterogeneity
+    in Longitudinal Chang'
+  authors:
+  - Mark Shevlin
+  - Sarah Butter
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson-Miller
+  - Todd Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Martinez
+  - Ryan McKay
+  - Thomas V.A. Stocks
+  - Kate Bennett
+  - Philip Hyland
+  - Richard Bentall
+  publisher: ''
+  date: '2021-01-01'
+  link: https://europepmc.org/article/PPR/PPR272736
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33503049
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1371/journal.pone.0246339
+  title: 'Pandemic buying: Testing a psychological model of over-purchasing and panic
+    buying using data from the United Kingdom and the Republic of Ireland during the
+    early phase of the COVID-19 pandemic'
+  authors:
+  - Richard P. Bentall
+  - Alex Lloyd
+  - Kate Bennett
+  - Ryan McKay
+  - Liam Mason
+  - Jamie Murphy
+  - Orla McBride
+  - Todd K. Hartman
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P. Martinez
+  - Thomas V. A. Stocks
+  - Sarah Butter
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Mark Shevlin
+  publisher: PLOS ONE
+  date: '2021-01-27'
+  link: https://doi.org/gsvpzb
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7840055
+  title: 'Pandemic buying: Testing a psychological model of over-purchasing and panic
+    buying using data from the United Kingdom and the Republic of Ireland during the
+    early phase of the COVID-19 pandemic'
+  authors:
+  - Richard P Bentall
+  - Alex Lloyd
+  - Kate Bennett
+  - Ryan McKay
+  - Liam Mason
+  - Jamie Murphy
+  - Orla McBride
+  - Todd K Hartman
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P Martinez
+  - Thomas V A Stocks
+  - Sarah Butter
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Mark Shevlin
+  publisher: PloS one
+  date: '2021-01-27'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7840055/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7782692
+  title: Psychological characteristics associated with COVID-19 vaccine hesitancy
+    and resistance in Ireland and the United Kingdom
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard P Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd K Hartman
+  - Ryan McKay
+  - Kate Bennett
+  - Liam Mason
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P Martinez
+  - Thomas V A Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: Nature communications
+  date: '2021-01-04'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7782692/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33397962
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1038/s41467-020-20226-9
+  title: Psychological characteristics associated with COVID-19 vaccine hesitancy
+    and resistance in Ireland and the United Kingdom
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard P. Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd K. Hartman
+  - Ryan McKay
+  - Kate Bennett
+  - Liam Mason
+  - Jilly Gibson-Miller
+  - Liat Levita
+  - Anton P. Martinez
+  - Thomas V. A. Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: Nature Communications
+  date: '2021-01-04'
+  link: https://doi.org/gh4456
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/mz5sw
+  title: 'Different conspiracy theories have different psychological and social determinants:
+    Comparison of three theories about the origins of the COVID-19 virus in a representative
+    sample of the UK population'
+  authors:
+  - Todd K. Hartman
+  - Michael Marshall
+  - Thomas Victor Arthur Stocks
+  - Ryan McKay
+  - Kate Mary Bennett
+  - Sarah Butter
+  - Jilly Gibson Miller
+  - Philip Hyland
+  - Liat Levita
+  - Anton P Martinez
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-12-18'
+  link: https://doi.org/gsvpzc
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR324193
+  title: 'Different conspiracy theories have different psychological and social determinants:
+    Comparison of three theories about the origins of the COVID-19 virus in a representative
+    sample of the UK populatio'
+  authors:
+  - Todd Hartman
+  - Michael Marshall
+  - Thomas Victor Arthur Stocks
+  - Ryan McKay
+  - Kate Mary Bennett
+  - Sarah Butter
+  - Jilly Gibson Miller
+  - Philip Hyland
+  - Liat Levita
+  - Anton Martinez
+  - Liam Mason
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://europepmc.org/article/PPR/PPR324193
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7992290
+  title: 'Monitoring the psychological, social, and economic impact of the COVID-19
+    pandemic in the population: Context, design and conduct of the longitudinal COVID-19
+    psychological research consortium (C19PRC) study'
+  authors:
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - Jilly Gibson-Miller
+  - Todd K Hartman
+  - Philip Hyland
+  - Liat Levita
+  - Liam Mason
+  - Anton P Martinez
+  - Ryan McKay
+  - Thomas Va Stocks
+  - Kate M Bennett
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Thanos Karatzias
+  - Carmen Valiente
+  - Carmelo Vazquez
+  - Richard P Bentall
+  publisher: International journal of methods in psychiatric research
+  date: '2021-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7992290/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mpr.1861
+  title: "Monitoring the psychological, social, and economic impact of the COVID\u2010\
+    19 pandemic in the population: Context, design and conduct of the longitudinal\
+    \ COVID\u201019 psychological research consortium (C19PRC) study"
+  authors:
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - "Jilly Gibson\u2010Miller"
+  - Todd K. Hartman
+  - Philip Hyland
+  - Liat Levita
+  - Liam Mason
+  - Anton P. Martinez
+  - Ryan McKay
+  - Thomas VA Stocks
+  - Kate M. Bennett
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Thanos Karatzias
+  - Carmen Valiente
+  - Carmelo Vazquez
+  - Richard P. Bentall
+  publisher: International Journal of Methods in Psychiatric Research
+  date: '2020-11-09'
+  link: https://doi.org/ghpdch
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33166018
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: ppr:PPR324219
+  title: Delay discounting and under-valuing of recent information predict lower adherence
+    to social distancing measures during the COVID-19 pandemi
+  authors:
+  - Alex Lloyd
+  - Ryan McKay
+  - Todd Hartman
+  - Benjamin Thomas Vincent
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Kate Mary Bennett
+  - Orla McBride
+  - Anton Philipp Martinez
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Sarah Butter
+  - Mark Shevlin
+  - Richard Bentall
+  - Liam Mason
+  publisher: ''
+  date: '2020-01-01'
+  link: https://europepmc.org/article/PPR/PPR324219
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/kvynr
+  title: Delay discounting and under-valuing of recent information predict lower adherence
+    to social distancing measures during the COVID-19 pandemic
+  authors:
+  - Alex Lloyd
+  - Ryan McKay
+  - Todd K. Hartman
+  - Benjamin Thomas Vincent
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Kate Mary Bennett
+  - Orla McBride
+  - Anton Philipp Martinez
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Sarah Butter
+  - Mark Shevlin
+  - Richard Bentall
+  - Liam Mason
+  publisher: Center for Open Science
+  date: '2020-09-22'
+  link: https://doi.org/gsvpzd
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR326864
+  title: 'Pandemic buying: Testing a psychological model of over-purchasing and panic
+    buying using data from the United Kingdom and the Republic of Ireland during the
+    early phase of the COVID-19 pandemi'
+  authors:
+  - Richard Bentall
+  - Alex Lloyd
+  - Kate Mary Bennett
+  - Ryan McKay
+  - Liam Mason
+  - Jamie Murphy
+  - Orla McBride
+  - Todd Hartman
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Mark Shevlin
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/u7vqp
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/u7vqp
+  title: 'Pandemic buying: Testing a psychological model of over-purchasing and panic
+    buying  using data from the United Kingdom and the Republic of Ireland during
+    the early phase of the COVID-19 pandemic'
+  authors:
+  - Richard Bentall
+  - Alex Lloyd
+  - Kate Mary Bennett
+  - Ryan McKay
+  - Liam Mason
+  - Jamie Murphy
+  - Orla McBride
+  - Todd K. Hartman
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Philip Hyland
+  - Thanos Karatzias
+  - Mark Shevlin
+  publisher: Center for Open Science
+  date: '2020-08-19'
+  link: https://doi.org/gsvpzf
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/pev2b
+  title: 'Preparing for a COVID-19 vaccine: Identifying and psychologically profiling
+    those who are vaccine hesitant or resistant in two general population samples'
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd K. Hartman
+  - Ryan McKay
+  - Kate Mary Bennett
+  - Liam Mason
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton P Martinez
+  - Thomas Victor Arthur Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: Center for Open Science
+  date: '2020-06-10'
+  link: https://doi.org/gsvpzg
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR326592
+  title: 'Preparing for a COVID-19 vaccine: Identifying and psychologically profiling
+    those who are vaccine hesitant or resistant in two general population sample'
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd Hartman
+  - Ryan McKay
+  - Kate Mary Bennett
+  - Liam Mason
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Martinez
+  - Thomas Victor Arthur Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: ''
+  date: '2020-01-01'
+  link: https://europepmc.org/article/PPR/PPR326592
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/dcynw
+  title: 'The psychological wellbeing of frontline workers in the United Kingdom during
+    the COVID-19 pandemic: First and second wave findings from the COVID-19  Psychological
+    Research Consortium (C19PRC) Study'
+  authors:
+  - Jamie Murphy
+  - Eric Spikol
+  - Orla McBride
+  - Mark Shevlin
+  - Kate Mary Bennett
+  - Todd K. Hartman
+  - Philip Hyland
+  - Thanos Karatzias
+  - Liat Levita
+  - Anton P Martinez
+  - Liam Mason
+  - Ryan McKay
+  - Jilly Gibson Miller
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-06-17'
+  link: https://doi.org/gjgzkt
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR326476
+  title: 'The psychological wellbeing of frontline workers in the United Kingdom during
+    the COVID-19 pandemic: First and second wave findings from the COVID-19 Psychological
+    Research Consortium (C19PRC) Stud'
+  authors:
+  - Jamie Murphy
+  - Eric Spikol
+  - Orla McBride
+  - Mark Shevlin
+  - Kate Mary Bennett
+  - Todd Hartman
+  - Philip Hyland
+  - Thanos Karatzias
+  - Liat Levita
+  - Anton Martinez
+  - Liam Mason
+  - Ryan McKay
+  - Jilly Gibson Miller
+  - Thomas Victor Arthur Stocks
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://europepmc.org/article/PPR/PPR326476
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32458550
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmc:PMC7283836
+  title: COVID-19-related anxiety predicts somatic symptoms in the UK population
+  authors:
+  - Mark Shevlin
+  - Emma Nolan
+  - Marcin Owczarek
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd K Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton P Martinez
+  - Ryan McKay
+  - Thomas V A Stocks
+  - Kate M Bennett
+  - Philip Hyland
+  - Richard P Bentall
+  publisher: British journal of health psychology
+  date: '2020-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7283836/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bjhp.12430
+  title: "COVID\u201019\u2010related anxiety predicts somatic symptoms in the UK population"
+  authors:
+  - Mark Shevlin
+  - Emma Nolan
+  - Marcin Owczarek
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton P. Martinez
+  - Ryan McKay
+  - Thomas V. A. Stocks
+  - Kate M. Bennett
+  - Philip Hyland
+  - Richard P. Bentall
+  publisher: British Journal of Health Psychology
+  date: '2020-05-27'
+  link: https://doi.org/ggzk5q
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bjhp.12426
+  title: "Capability, opportunity, and motivation to enact hygienic practices in the\
+    \ early stages of the COVID\u201019 outbreak in the United Kingdom"
+  authors:
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Anton P. Martinez
+  - Liam Mason
+  - Orla McBride
+  - Ryan McKay
+  - Jamie Murphy
+  - Mark Shevlin
+  - Thomas V. A. Stocks
+  - Kate M. Bennett
+  - Richard P. Bentall
+  publisher: British Journal of Health Psychology
+  date: '2020-05-16'
+  link: https://doi.org/ggw9g8
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7276910
+  title: Capability, opportunity, and motivation to enact hygienic practices in the
+    early stages of the COVID-19 outbreak in the United Kingdom
+  authors:
+  - Jilly Gibson Miller
+  - Todd K Hartman
+  - Liat Levita
+  - Anton P Martinez
+  - Liam Mason
+  - Orla McBride
+  - Ryan McKay
+  - Jamie Murphy
+  - Mark Shevlin
+  - Thomas V A Stocks
+  - Kate M Bennett
+  - Richard P Bentall
+  publisher: British journal of health psychology
+  date: '2020-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7276910/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32415918
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: ppr:PPR330094
+  title: 'Preparing for a COVID-19 vaccine: Identifying and psychologically profiling
+    those who are vaccine hesitant or resistant in two general population sample'
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd Hartman
+  - Ryan McKay
+  - kate bennett
+  - Liam Mason
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton Martinez
+  - Thomas Victor Arthur Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/8dtnq
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/8dtnq
+  title: 'Preparing for a COVID-19 vaccine: Identifying and psychologically profiling
+    those who are vaccine hesitant or resistant in two general population samples'
+  authors:
+  - Jamie Murphy
+  - "Fr\xE9d\xE9rique Valli\xE8res"
+  - Richard Bentall
+  - Mark Shevlin
+  - Orla McBride
+  - Todd K. Hartman
+  - Ryan McKay
+  - kate m bennett
+  - Liam Mason
+  - Jilly Gibson Miller
+  - Liat Levita
+  - Anton P Martinez
+  - Thomas Victor Arthur Stocks
+  - Thanos Karatzias
+  - Philip Hyland
+  publisher: Center for Open Science
+  date: '2020-05-18'
+  link: https://doi.org/gsvpzh
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/hb6nq
+  title: Anxiety, Depression, Traumatic Stress, and COVID-19 Related Anxiety in the
+    UK General Population During the COVID-19 Pandemic.
+  authors:
+  - Mark Shevlin
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Thanos Karatzias
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-04-18'
+  link: https://doi.org/dtv3
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR327544
+  title: Anxiety, Depression, Traumatic Stress, and COVID-19 Related Anxiety in the
+    UK General Population During the COVID-19 Pandemic
+  authors:
+  - Mark Shevlin
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Thanos Karatzias
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/hb6nq
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR328706
+  title: COVID-19-Related Anxiety Predicts Somatic Symptoms in the UK Populatio
+  authors:
+  - Mark Shevlin
+  - Emma Nolan
+  - Marcin Owczarek
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/ydvc7
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/ydvc7
+  title: COVID-19-Related Anxiety Predicts Somatic Symptoms in the UK Population
+  authors:
+  - Mark Shevlin
+  - Emma Nolan
+  - Marcin Owczarek
+  - Orla McBride
+  - Jamie Murphy
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Philip Hyland
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-04-30'
+  link: https://doi.org/gsvpzj
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/typqv
+  title: Capability, opportunity and motivation to enact hygienic practices in the
+    early stages of the COVID-19 outbreak in the UK
+  authors:
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Liam Mason
+  - Orla McBride
+  - Ryan McKay
+  - Jamie Murphy
+  - Mark Shevlin
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-04-20'
+  link: https://doi.org/gsvpzk
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR328764
+  title: Capability, opportunity and motivation to enact hygienic practices in the
+    early stages of the COVID-19 outbreak in the U
+  authors:
+  - Jilly Gibson Miller
+  - Todd Hartman
+  - Liat Levita
+  - Anton Philipp Martinez
+  - Liam Mason
+  - Orla McBride
+  - Ryan McKay
+  - Jamie Murphy
+  - Mark Shevlin
+  - Thomas Victor Arthur Stocks
+  - Kate Mary Bennett
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/typqv
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/wxe2n
+  title: 'Monitoring the psychological impact of the COVID-19 pandemic in the general
+    population: an overview of the context, design and conduct of the COVID-19 Psychological
+    Research Consortium (C19PRC) Study'
+  authors:
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - Jilly Gibson Miller
+  - Todd K. Hartman
+  - Philip Hyland
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Richard Bentall
+  publisher: Center for Open Science
+  date: '2020-04-13'
+  link: https://doi.org/gsvpzm
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR330260
+  title: 'Monitoring the psychological impact of the COVID-19 pandemic in the general
+    population: an overview of the context, design and conduct of the COVID-19 Psychological
+    Research Consortium (C19PRC) Stud'
+  authors:
+  - Orla McBride
+  - Jamie Murphy
+  - Mark Shevlin
+  - Jilly Gibson Miller
+  - Todd Hartman
+  - Philip Hyland
+  - Liat Levita
+  - Liam Mason
+  - Anton Philipp Martinez
+  - Ryan McKay
+  - Thomas Victor Arthur Stocks
+  - Richard Bentall
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.31234/osf.io/wxe2n
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpsyt.2020.00140
+  title: 'Under the Hood: Using Computational Psychiatry to Make Psychological Therapies
+    More Mechanism-Focused'
+  authors:
+  - Akshay Nair
+  - Robb B. Rutledge
+  - Liam Mason
+  publisher: Frontiers in Psychiatry
+  date: '2020-03-18'
+  link: https://doi.org/gmchw4
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32256395
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmc:PMC7093344
+  title: 'Under the Hood: Using Computational Psychiatry to Make Psychological Therapies
+    More Mechanism-Focused'
+  authors:
+  - Akshay Nair
+  - Robb B Rutledge
+  - Liam Mason
+  publisher: Frontiers in psychiatry
+  date: '2020-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7093344/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2018.10.011
+  title: Using fMRI and machine learning to predict symptom improvement following
+    cognitive behavioural therapy for psychosis
+  authors:
+  - Eva Tolmeijer
+  - Veena Kumari
+  - Emmanuelle Peters
+  - Steven C.R. Williams
+  - Liam Mason
+  publisher: 'NeuroImage: Clinical'
+  date: '2018-01-01'
+  link: https://doi.org/gfqwcj
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30343250
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmc:PMC6197386
+  title: Using fMRI and machine learning to predict symptom improvement following
+    cognitive behavioural therapy for psychosis
+  authors:
+  - Eva Tolmeijer
+  - Veena Kumari
+  - Emmanuelle Peters
+  - Steven C R Williams
+  - Liam Mason
+  publisher: NeuroImage. Clinical
+  date: '2018-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197386/
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/jamapsychiatry.2017.3163
+  title: "Mood Instability and Reward Dysregulation\u2014A Neurocomputational Model\
+    \ of Bipolar Disorder"
+  authors:
+  - Liam Mason
+  - Eran Eldar
+  - Robb B. Rutledge
+  publisher: JAMA Psychiatry
+  date: '2017-12-01'
+  link: https://doi.org/gm2n5p
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84955211936
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.biopsych.2015.03.014
+  title: Attentional Bias Predicts Increased Reward Salience and Risk Taking in Bipolar
+    Disorder
+  authors:
+  - Liam Mason
+  - Nelson J. Trujillo-Barreto
+  - Richard P. Bentall
+  - Wael El-Deredy
+  publisher: Biological Psychiatry
+  date: '2016-02-01'
+  link: https://doi.org/f76vkr
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/schbul/sbv153
+  title: Cognitive Behavioral Therapy Normalizes Functional Connectivity for Social
+    Threat in Psychosis
+  authors:
+  - Liam Mason
+  - Emmanuelle R. Peters
+  - Danai Dima
+  - Steven C. Williams
+  - Veena Kumari
+  publisher: Schizophrenia Bulletin
+  date: '2015-10-27'
+  link: https://doi.org/f8pgn6
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84966318564
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: source-work-id:029b46a5-fc76-4b37-9ee2-84e08ab03f4e
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:26508777
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:25697285
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: source-work-id:6590d03b-479d-4ced-b0d3-e5d828eb2204
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1017/S1352465815000065
+  title: My Therapist is a Student? The Impact of Therapist Experience and Client
+    Severity on Cognitive Behavioural Therapy Outcomes for People with Anxiety Disorders
+  authors:
+  - Liam Mason
+  - Nick Grey
+  - David Veale
+  publisher: Behavioural and Cognitive Psychotherapy
+  date: '2015-02-20'
+  link: https://doi.org/f8cc5b
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84957431938
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: source-work-id:05426955-a584-46b8-8c00-4f688708ec87
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: source-work-id:c4bea82d-4162-47d6-99a8-cd28fb14d5c8
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1093/brain/awu152
+  title: Decision-making and trait impulsivity in bipolar disorder are associated
+    with reduced prefrontal regulation of striatal reward valuation
+  authors:
+  - Liam Mason
+  - "Noreen O\u2019Sullivan"
+  - Daniela Montaldi
+  - Richard P. Bentall
+  - Wael El-Deredy
+  publisher: Brain
+  date: '2014-06-24'
+  link: https://doi.org/f6cnjj
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84904968754
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: eid:2-s2.0-84867655666
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1371/journal.pone.0047754
+  title: 'Better Than I Thought: Positive Evaluation Bias in Hypomania'
+  authors:
+  - Liam Mason
+  - Noreen O'Sullivan
+  - Richard P. Bentall
+  - Wael El-Deredy
+  publisher: PLoS ONE
+  date: '2012-10-17'
+  link: https://doi.org/gmcj66
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84868691240
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1080/02699931.2012.673478
+  title: 'Delay discounting as emotional processing: An electrophysiological study'
+  authors:
+  - Marianna Blackburn
+  - Liam Mason
+  - Marco Hoeksma
+  - Elizabeth H. Zandstra
+  - Wael El-Deredy
+  publisher: Cognition &amp; Emotion
+  date: '2012-12-01'
+  link: https://doi.org/gg2pnr
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84857637034
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.biopsych.2011.10.008
+  title: I Want It Now! Neural Correlates of Hypersensitivity to Immediate Reward
+    in Hypomania
+  authors:
+  - Liam Mason
+  - Noreen O'Sullivan
+  - Marianna Blackburn
+  - Richard Bentall
+  - Wael El-Deredy
+  publisher: Biological Psychiatry
+  date: '2012-03-01'
+  link: https://doi.org/d3kxvp
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropsychologia.2011.06.008
+  title: fMRI evidence of a relationship between hypomania and both increased goal-sensitivity
+    and positive outcome-expectancy bias
+  authors:
+  - Noreen O'Sullivan
+  - Remigiusz Szczepanowski
+  - Wael El-Deredy
+  - Liam Mason
+  - Richard P. Bentall
+  publisher: Neuropsychologia
+  date: '2011-08-01'
+  link: https://doi.org/chz6rw
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-80051471272
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.jpsychores.2007.06.004
+  title: Development of a paradigm for measuring somatic disturbance in clinical populations
+    with medically unexplained symptoms
+  authors:
+  - Donna M. Lloyd
+  - Liam Mason
+  - Richard J. Brown
+  - Ellen Poliakoff
+  publisher: Journal of Psychosomatic Research
+  date: '2008-01-01'
+  link: https://doi.org/chk59g
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-37349047433
+  orcid: 0000-0003-3957-1436
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -107,9 +1455,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0003-3957-1436
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -126,21 +1471,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0003-3957-1436
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
